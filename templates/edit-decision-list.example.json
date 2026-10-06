@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "clips": [
+    {"source": "../../raw-clips/example-video/talking head.mov", "start": 0.5, "end": 3.5},
+    {"source": "../../raw-clips/example-video/silent demo.mp4", "start": 1, "end": 3}
+  ],
+  "overlays": [
+    {"source": "../../overlays/example-video/primary-source.png", "x": 80, "y": 200, "width": 700, "start": 1, "end": 4}
+  ],
+  "subtitles": "captions-reviewed.srt"
+}
